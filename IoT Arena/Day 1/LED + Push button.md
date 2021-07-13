@@ -4,6 +4,8 @@ Controlling the LED using a push button
 
 ## Schematics
 
+![image](https://user-images.githubusercontent.com/85028192/125415464-6e9ea525-c6b7-4f26-8835-3bb4760f6e55.png)
+
 ## Code
 
 ```
