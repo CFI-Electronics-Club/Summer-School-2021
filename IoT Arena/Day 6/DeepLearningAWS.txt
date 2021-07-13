@@ -1,0 +1,38 @@
+Steps to follow on terminal:
+For Windows : Powershell
+
+1. Go to the directory where security file is located
+cd/Users/aarya/Downloads
+
+2. Change the permissions of your .pem file
+
+icacls.exe <key_pair>.pem /reset
+
+icacls.exe <key_pair>.pem /grant:r "$($env:username):(r)"
+
+icacls.exe <key_pair>.pem /inheritance:r
+
+3. Connect to your instance using SSH
+
+ssh -L localhost:8888:localhost:8888 -i <key_pair>.pem ubuntu@<your_instance_DNS>
+
+4. In terminal type : jupyter notebook
+
+5. Copy URL and run it on a new browser
+
+For Linux:
+
+1. Go to the directory where security file is located
+cd/Users/aarya/Downloads
+
+2. Change the permissions of your .pem file
+
+chmod 0400 <key_pair>.pem
+
+3. Connect to your instance using SSH
+
+ssh -L localhost:8888:localhost:8888 -i <key_pair>.pem ubuntu@<your_instance_DNS>
+
+4. In terminal type : jupyter notebook
+
+5. Copy URL and run it on a new browser
