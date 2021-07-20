@@ -1,4 +1,4 @@
-## Day 1 session contents
+## Day 2 session contents
 
 *IRIS Dataset Classification Code-along*: https://colab.research.google.com/drive/1ZpJ5-dkFLE8UpfUwZI51WpAQyVE1xpan?usp=sharing
 
