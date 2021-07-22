@@ -17,3 +17,8 @@ Circuit Diagram
 
 <img width="505" alt="Screen Shot 2021-07-22 at 6 31 57 PM" src="https://user-images.githubusercontent.com/72989277/126643511-0666a669-3ff9-457a-b000-bf8d73ec0679.png">
 
+Other Links to check out:
+
+https://www.youtube.com/watch?v=BzzqYNYOcWc
+
+https://www.youtube.com/watch?v=dU01M61RW8s&t=150s
