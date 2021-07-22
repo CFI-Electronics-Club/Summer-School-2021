@@ -7,3 +7,5 @@
 **Note:** Don't forget to **save a copy** of these notebooks before tinkering with them. 
 
 *Slides and recording*: https://drive.google.com/drive/folders/1BF0PPbLEvd4vbkJFtfTyn3Qpn-Wv1qhv?usp=sharing
+
+Check out the instructions for deploying the sine curve model on the dev board in the resources folder!
