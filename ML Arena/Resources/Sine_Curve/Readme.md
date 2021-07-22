@@ -7,10 +7,11 @@ Instructions:
 
 1. Go to the colab notebook, run all the cells, open the documents folder and download  `sine_model.h` file from it.
 2. Open an Arduino sketch and save it.
-3. In the arduino ide, Go to `Sketch` and click `Open Sketch Folder`
-4. Download all the files and add it to the sketch folder.
-5. Copy paste the contents of `Sine_model.ino` to your sketch.
-6. Upload the sketch to your Dev Board.
+3. Install the `Tensorflowlite_ESP32` and `analogWrite` libraries from the arduino library manager.
+4. In the arduino ide, Go to `Sketch` and click `Open Sketch Folder`
+5. Download all the files and add it to the sketch folder.
+6. Copy paste the contents of `Sine_model.ino` to your sketch.
+7. Upload the sketch to your Dev Board.
 
 
 Circuit Diagram
