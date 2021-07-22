@@ -33,6 +33,8 @@ uint8_t tensor_arena[kTensorArenaSize];
 
 // The name of this function is important for Arduino compatibility.
 void setup() {
+  // Set up logging. Google style is to avoid globals or statics because of
+  // lifetime uncertainty, but since this has a trivial destructor it's okay.
   // NOLINTNEXTLINE(runtime-global-variables)
   static tflite::MicroErrorReporter micro_error_reporter;
   error_reporter = &micro_error_reporter;
@@ -108,10 +110,7 @@ void loop() {
   // Print value
   Serial.println(y_val);
 
-#if DEBUG
-  Serial.print("Time for inference (us): ");
-  Serial.println(micros() - start_timestamp);
-#endif
+
 
   // Output the results. A custom HandleOutput function can be implemented
   // for each supported hardware target.
