@@ -2,8 +2,7 @@ Link : https://drive.google.com/file/d/1PlfJzUZnZhssV-EZuPYz5XSH8urueaxt/view?us
 
 # Instructions
 
-### 1. If you are facing issues while installing Android Studio please follow the below links:
-> **Java JDK Installation:** https://www.youtube.com/watch?v=MxjjRmm0k-I&ab_channel=GeekyScript \
+### 1. Please follow the below links to install Android Studio:
 > **Android Studio Installation:** https://www.youtube.com/watch?v=H53e2kdaLfk&ab_channel=GeekyScript
 ### 2. Download the zip file named mnist from the above google drive link.
 ### 3. Extract the contents into a folder where ever you want.
