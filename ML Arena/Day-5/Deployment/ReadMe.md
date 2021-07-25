@@ -1,8 +1,8 @@
-Link : https://drive.google.com/file/d/1PlfJzUZnZhssV-EZuPYz5XSH8urueaxt/view?usp=sharing
+> *mnist.zip* link : https://drive.google.com/file/d/1PlfJzUZnZhssV-EZuPYz5XSH8urueaxt/view?usp=sharing
 
 # Instructions
 
-### 1. Please follow the below links to install Android Studio:
+### 1. Please follow the below link to install Android Studio:
 > **Android Studio Installation:** https://www.youtube.com/watch?v=H53e2kdaLfk&ab_channel=GeekyScript
 ### 2. Download the zip file named mnist from the above google drive link.
 ### 3. Extract the contents into a folder where ever you want.
