@@ -1,5 +1,8 @@
 > *mnist.zip* link : https://drive.google.com/file/d/1PlfJzUZnZhssV-EZuPYz5XSH8urueaxt/view?usp=sharing
 
+> *Java JDK Installation* : https://www.youtube.com/watch?v=MxjjRmm0k-I&ab_channel=GeekyScript
+
+
 # Instructions
 
 ### 1. Please follow the below link to install Android Studio:
