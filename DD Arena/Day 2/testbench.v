@@ -4,7 +4,8 @@ module testbench;
   reg a, b, c;
   
   code1 M(d, e, a, b, c);
-   begin
+  initial 
+  begin
     $dumpfile("testbench.vcd");
     $dumpvars(1);
     a = 1'b0; b = 1'b0; c = 1'b0;
