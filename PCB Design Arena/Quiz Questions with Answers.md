@@ -1,4 +1,4 @@
-<b>Answers of the questions are besides the corresponding questions.</b>
+<b>Answers of the questions are besides the corresponding questions. Solutions are present in the slides used.</b>
 
 <b>Link of the kahoot quiz conducted on Day-1</b>
 
